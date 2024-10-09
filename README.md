@@ -1,6 +1,6 @@
-# 👋 Olá, sou Didi!
+# 👋 Olá, sou o Angk!
 
-Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho experiência em **React Native**, **Expo**, **Firebase**, e atualmente estou explorando o universo de **UI/UX** para criar interfaces incríveis e funcionais. Também sou **Concept Artist**, e crio imagens com a assinatura 'Angk'.
+Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho experiência em **React Native**, **Expo**, **Firebase**. Também sou **Concept Artist**.
 
 ## 🚀 O que eu faço
 - **Desenvolvimento de Apps Mobile**: Trabalho com **React Native** e **Expo** para construir aplicativos móveis intuitivos e eficientes.
@@ -31,6 +31,7 @@ Você pode conferir meu trabalho artístico **Angk**. [Entre em contato](diogene
 Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a colaborar e compartilhar conhecimento.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&size_weight=0.5&count_weight=0.5)
 
 ---
 
