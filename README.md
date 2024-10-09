@@ -32,6 +32,6 @@ Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a co
 
 <div>
 <a href="https://github.com/Anghievischi">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
