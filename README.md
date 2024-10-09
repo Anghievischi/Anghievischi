@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho exper
 ## 🚀 O que eu faço
 - **Desenvolvimento de Apps Mobile**: Trabalho com **React Native** e **Expo** para construir aplicativos móveis intuitivos e eficientes.
 - **Backend com Firebase**: Integro meus aplicativos com o Firebase para gerenciar autenticação, banco de dados em tempo real, e muito mais.
-- **Concept Art e Design**: Exploro a criatividade criando concept arts, utilizando ferramentas como Photoshop para desenvolver peças únicas com **300 DPI**.
+- **Concept Art e Design**: Exploro a criatividade criando concept arts, utilizando ferramentas como Photoshop.
 - **Marketplace App**: Estou desenvolvendo um aplicativo para conectar consumidores a produtores regionais de alimentos e bebidas.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -21,17 +21,16 @@ Estou sempre buscando aprender e evoluir. Atualmente, estou me aprofundando em:
 - **Estilização com SCSS** para manter o código organizado e escalável
 
 ## 🎨 Concept Arts
-Você pode conferir meu trabalho artístico e até mesmo adquirir NFTs das minhas obras na minha coleção **Angk**. [Entre em contato](mailto:seu-email@exemplo.com) para mais informações.
+Você pode conferir meu trabalho artístico **Angk**. [Entre em contato](diogenes.angk@gmail.com) para mais informações.
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [Seu LinkedIn](https://linkedin.com)
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/di%C3%B3genes-augusto-anghievischi-b63a06219/)
 - **Email**: seu-email@exemplo.com
-- **Behance/Portfólio**: [Meu portfólio](https://behance.net/seuusuario)
-- **NFTs**: [Coleção Angk](https://opensea.io/seuusuario)
+- **ArtStation/Portfólio**: [Meu portfólio](https://www.artstation.com/angk888)
 
 Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a colaborar e compartilhar conhecimento.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=radical)
 
 ---
 
