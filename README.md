@@ -31,7 +31,12 @@ Você pode conferir meu trabalho artístico **Angk**. [Entre em contato](diogene
 Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a colaborar e compartilhar conhecimento.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&size_weight=0.5&count_weight=0.5)
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 
