@@ -32,12 +32,11 @@ Estou sempre buscando aprender e evoluir. Atualmente, estou me aprofundando em:
 - **Estilização com SCSS** para manter o código organizado e escalável
 
 ## 🎨 Concept Arts
-Você pode conferir meu trabalho artístico **Angk**. [Entre em contato](diogenes.angk@gmail.com) para mais informações.
+Você pode conferir meu trabalho artístico no ArtStation [**Angk**](https://www.artstation.com/angk888).
 
 ## 📫 Como me encontrar
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/di%C3%B3genes-augusto-anghievischi-b63a06219/)
 - **Email**: diogenes.angk@gmail.com
-- **ArtStation/Portfólio**: [Meu portfólio](https://www.artstation.com/angk888)
 
 Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a colaborar e compartilhar conhecimento.
 
