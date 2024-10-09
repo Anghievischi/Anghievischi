@@ -34,7 +34,7 @@ Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a co
 
 <div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=tokyonight&count_private=true)
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi)](https://github.com/Anghievischi/github-readme-stats)
 </div>
 
 ---
