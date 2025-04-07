@@ -40,8 +40,3 @@ Você pode conferir meu trabalho artístico no ArtStation [**Angk**](https://www
 
 Fique à vontade para explorar meus repositórios e projetos! Sempre aberto a colaborar e compartilhar conhecimento.
 
-<div>
-<a href="https://github.com/Anghievischi">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghievischi&layout=compact&langs_count=7&theme=material-palenight&cache_seconds=0"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Anghievischi&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&cache_seconds=0"/>
-</div>
