@@ -1,13 +1,11 @@
 # 👋 Olá, sou o Diógenes!
 
-Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho experiência em **React Native**, **Expo**, **Firebase**. Também sou **Concept Artist**.
+Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho experiência em **Laravel**, **Filament**, **React Native**, **Expo**, **Firebase**. Também sou **Concept Artist**.
 
 ## 🚀 O que eu faço
-- **Desenvolvimento de Apps Mobile**: Trabalho com **React Native** e **Expo** para construir aplicativos móveis intuitivos e eficientes.
-- **Backend com Firebase**: Integro meus aplicativos com o Firebase para gerenciar autenticação, banco de dados em tempo real, e muito mais.
+- **Desenvolvimento Back-End**: Trabalho atualmente com a criação de paginas WEB como Laravel integrado com o Filament.
 - **Concept Art e Design**: Exploro a criatividade criando concept arts, utilizando ferramentas como Photoshop.
-- **Marketplace App**: Estou desenvolvendo um aplicativo para conectar consumidores a produtores regionais de alimentos e bebidas.
-
+- 
 ## 🛠️ Tecnologias e Ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
