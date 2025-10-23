@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia, design e inovação. Tenho exper
 ## 🚀 O que eu faço
 - **Desenvolvimento Back-End**: Trabalho atualmente com a criação de paginas WEB como Laravel integrado com o Filament.
 - **Concept Art e Design**: Exploro a criatividade criando concept arts, utilizando ferramentas como Photoshop.
-- 
+
 ## 🛠️ Tecnologias e Ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
