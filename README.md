@@ -4,11 +4,13 @@
 
 ###
 
-<h2 align="center">My Skills</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7A36F7&width=435&lines=Hello%2C+it's+Di%C3%B3genes+A.+Anghievischi;Computer+Engineer)](https://git.io/typing-svg)
+
+<h2 align="left">My Skills</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -44,11 +46,11 @@
 
 ###
 
-<h2 align="center">Studying</h2>
+<h2 align="left">Studying</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
@@ -70,10 +72,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anghievischi/Anghievischi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anghievischi/Anghievischi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anghievischi/Anghievischi/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="150" width="550" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
 
 ###
