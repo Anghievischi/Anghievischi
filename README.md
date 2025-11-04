@@ -78,8 +78,6 @@
 
 ###
 
-<div align="center">
-  <img height="150" width="550" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anghievischi&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
